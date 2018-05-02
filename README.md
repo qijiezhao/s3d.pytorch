@@ -7,13 +7,8 @@ This is a demo code for training videos / continuous frames. I reproduced S3D an
 
 S3D is powerful, only RGB stream could achieve 96.8% at UCF101, and flow-S3D also gains a large margin compared with I3D. **So S3D is useful for extracting serial features**(equals to TxHxW type data)
 
-<<<<<<< HEAD
 ![image](imgs/all.jpg)
 
-=======
-![image](imgs/s3d.jpg?imageView/2/w/450/q/90)
-![image](imgs/sin.jpg?imageView/2/w/200/q/90)
->>>>>>> b6dcffb8ab661c880e5fa7e45aa893348c250147
 -------
 
 ### Prepare
